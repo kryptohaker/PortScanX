@@ -33,8 +33,8 @@ To use PortScanX, the following dependencies need to be installed on your system
 python3 portscanx.py -t <target_file> -e <interface>
 ```
 
-Replace `<target_file>` with the path to your target file, and `<interface>` with the desired interface for masscan.
-6. Sit back and let PortScanX perform the port scans on the specified targets. The script will create folders for each target and save the scan results in the respective folders.
+6. Replace `<target_file>` with the path to your target file, and `<interface>` with the desired interface for masscan.
+7. Sit back and let PortScanX perform the port scans on the specified targets. The script will create folders for each target and save the scan results in the respective folders.
 
 ### Disclaimer
 
